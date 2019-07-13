@@ -1,0 +1,8 @@
+title: "Store: Customers"
+fieldset: "store_customers"
+columns:
+  - title
+  - value: listing_orders
+    header: Orders
+  - value: listing_spent
+    header: Spent

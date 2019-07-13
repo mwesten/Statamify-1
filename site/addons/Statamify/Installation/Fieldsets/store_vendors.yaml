@@ -1,0 +1,10 @@
+taxonomies: false
+hide: true
+title: "Store: Vendors"
+fields:
+  products:
+    type: collection
+    display: Products
+    collection:
+      - store_products
+    mode: panes

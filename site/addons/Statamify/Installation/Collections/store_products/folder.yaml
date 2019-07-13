@@ -1,0 +1,14 @@
+title: "Store: Products"
+fieldset: store_products
+template: store/product
+order: number
+sort_dir: desc
+columns:
+  - title
+  - image.null
+  - value: listing_inventory
+    header: Inventory
+  - value: listing_type
+    header: Type
+  - value: listing_vendor
+    header: Vendor
