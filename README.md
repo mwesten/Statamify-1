@@ -3,7 +3,7 @@
 # Statamify
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Statamify is **FREE** Shopify-like ecommerce addon for Statamic 2.0^ 
+Statamify is a Shopify-like ecommerce addon for Statamic 2.0^ 
 
 Check demo repo: https://github.com/statamify/statamify-demo
 
