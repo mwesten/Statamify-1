@@ -1,4 +1,4 @@
-**Please note:** This project is a fork from the original but is updated more frequently. You can view the older repo [!here](https://github.com/sellfino/Statamify). 
+**Please note:** This project is a fork from the original but is updated more frequently. You can view the older repo [here](https://github.com/sellfino/Statamify). 
 
 # Statamify
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
